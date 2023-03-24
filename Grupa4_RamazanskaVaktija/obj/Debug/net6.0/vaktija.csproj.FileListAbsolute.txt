@@ -1,0 +1,45 @@
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\bin\Debug\net6.0\vaktija.exe
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\bin\Debug\net6.0\vaktija.deps.json
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\bin\Debug\net6.0\vaktija.runtimeconfig.json
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\bin\Debug\net6.0\vaktija.dll
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\bin\Debug\net6.0\vaktija.pdb
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\vaktija.csproj.AssemblyReference.cache
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\vaktija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\vaktija.AssemblyInfoInputs.cache
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\vaktija.AssemblyInfo.cs
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\vaktija.csproj.CoreCompileInputs.cache
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\vaktija.dll
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\refint\vaktija.dll
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\vaktija.pdb
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\vaktija.genruntimeconfig.cache
+C:\Users\BLGS HP\Desktop\Materijal za faks\6. semestar\RAMU\primjeri\vaktija\obj\Debug\net6.0\ref\vaktija.dll
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\vaktija.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\vaktija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\vaktija.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\vaktija.AssemblyInfo.cs
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\vaktija.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\vaktija.dll
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\refint\vaktija.dll
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\vaktija.pdb
+C:\Users\Korisnik\Downloads\vaktija\bin\Debug\net6.0\vaktija.exe
+C:\Users\Korisnik\Downloads\vaktija\bin\Debug\net6.0\vaktija.deps.json
+C:\Users\Korisnik\Downloads\vaktija\bin\Debug\net6.0\vaktija.runtimeconfig.json
+C:\Users\Korisnik\Downloads\vaktija\bin\Debug\net6.0\vaktija.dll
+C:\Users\Korisnik\Downloads\vaktija\bin\Debug\net6.0\vaktija.pdb
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\vaktija.genruntimeconfig.cache
+C:\Users\Korisnik\Downloads\vaktija\obj\Debug\net6.0\ref\vaktija.dll
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\bin\Debug\net6.0\vaktija.exe
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\bin\Debug\net6.0\vaktija.deps.json
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\bin\Debug\net6.0\vaktija.runtimeconfig.json
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\bin\Debug\net6.0\vaktija.dll
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\bin\Debug\net6.0\vaktija.pdb
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\vaktija.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\vaktija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\vaktija.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\vaktija.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\vaktija.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\vaktija.dll
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\refint\vaktija.dll
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\vaktija.pdb
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\vaktija.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\vaktija_novo\vaktija\obj\Debug\net6.0\ref\vaktija.dll
